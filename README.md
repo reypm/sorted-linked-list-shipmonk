@@ -18,7 +18,7 @@ A type-safe, sorted linked list implementation for PHP 8.4+ that automatically m
 ## Installation
 
 ```bash
-composer require yourvendor/sorted-linked-list
+composer require reypm/sorted-linked-list
 ```
 
 ## Requirements
@@ -161,4 +161,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Author
 
-Your Name - your.email@example.com
+Reynier Perez - reynierpm@gmail.com
