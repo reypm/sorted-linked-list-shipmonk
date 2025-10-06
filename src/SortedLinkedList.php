@@ -1,6 +1,4 @@
 <?php
-// File: src/SortedLinkedList.php
-
 declare(strict_types=1);
 
 namespace SortedList;

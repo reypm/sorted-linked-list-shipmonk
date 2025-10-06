@@ -1,5 +1,4 @@
 <?php
-// File: src/Node.php
 
 declare(strict_types=1);
 
